@@ -1,0 +1,10 @@
+{
+  "flvSaveDir": "D:/flv/",
+  "httpFilePort": 6556,
+  "logPath": "./log/",
+  "mp4SaveDir": "D:/mp4/",
+  "rtspServerName": "hangxunStreamServer",
+  "rtspServerPort": 6554,
+  "rtspServerVersion": "1.0",
+  "taskPort": 6555
+}
